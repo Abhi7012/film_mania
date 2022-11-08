@@ -1,0 +1,18 @@
+body{
+    padding:0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.root{
+    display: flex;
+    height: 100%;
+
+}
+.toolBar{
+    height: 70px;
+
+}
+.content{
+    flex-grow: '1';
+    padding: 2rem;
+}
